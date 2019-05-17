@@ -9,7 +9,7 @@
 name: nebulau
 
 # Short bio or description (displayed in the header)
-description: 哈哈哈哈哈啊哈
+description: Blog of nebulau
 
 #
 # Flags below are optional
@@ -41,7 +41,7 @@ paginate: 5
 footer-links:
   behance: # https://www.behance.net/<username>
   dribbble:
-  email:email@email.com
+  email: email@email.com
   facebook:
   flickr:
   github: nebulau/nebulau.GitHub.io
